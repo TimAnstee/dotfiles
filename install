@@ -1,4 +1,0 @@
-mv ./bashrc ./bashr_old
-mv ./bash_profile ./bash_profile_old
-ln -s ./.dotfiles/.bash_profile ./.bash_profile
-ln -s ./.dotfiles/.bashrc ./.bashrc
