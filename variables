@@ -1,0 +1,19 @@
+#!/bin/bash
+#
+#
+
+# git editor
+#export EDITOR="subl -w"
+
+
+
+# jvm
+#export PATH="$PATH:/Users/Tim/androidsdk/platform-tools:/Users/Tim/androidsdk/tools"
+
+
+#node path
+export NODE_PATH="/Users/Tim/.node/lib/node_modules"
+export PATH="$HOME/.node/bin:$PATH"
+
+
+export PATH="$HOME/.rvm/bin:$PATH" # Add RVM to PATH for scripting
