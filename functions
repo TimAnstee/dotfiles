@@ -2,11 +2,6 @@
 #
 #
 
-# set terminal title
-title() {
-  echo -en "\033]2;$1\007";
-}
-
 chmox() {
   chmod +x $1
 }
