@@ -19,6 +19,7 @@ alias sizer='du -h -c'                          # get and print folder size for 
 alias disks='df -H -l'                          # show available disk space
 alias ip='ifconfig | grep "inet "'              # quickly print ip address
 alias ping='ping -c 5'                          # pings with 5 packets, not unlimited
+alias lsp='sudo lsof -i -n -P | grep LISTEN'
 
 # subl
 alias code='open -a /Applications/Visual\ Studio\ Code.app/'
