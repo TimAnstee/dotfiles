@@ -1,14 +1,14 @@
 #!/bin/bash
 
 #node
-export PATH="$HOME/.node_modules_global/bin:$PATH" 
+export PATH="$HOME/.node_modules_global/bin:$PATH"
 export NODE_ENV="development"
 
 
 #ruby package manager
-export PATH="$HOME/.rbenv/bin:$path"
+#export PATH="$HOME/.rbenv/bin:$path"
 
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 # dot net virtual machine
-source dnvm.sh
+#source dnvm.sh
